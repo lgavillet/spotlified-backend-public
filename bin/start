@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+forego start -f Procfile.dev
